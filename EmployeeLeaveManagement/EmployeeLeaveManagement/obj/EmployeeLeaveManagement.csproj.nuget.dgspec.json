@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Api\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj": {}
+    "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj": {}
   },
   "projects": {
-    "D:\\Api\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj": {
+    "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Api\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+        "projectUniqueName": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
         "projectName": "EmployeeLeaveManagement",
-        "projectPath": "D:\\Api\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+        "projectPath": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
         "packagesPath": "C:\\Users\\sgsuser\\.nuget\\packages\\",
-        "outputPath": "D:\\Api\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\",
+        "outputPath": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sgsuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Microsoft.Data.Sqlite.Core": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -63,6 +67,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
