@@ -7399,19 +7399,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sgsuser\\.nuget\\packages\\": {}
+    "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+      "projectUniqueName": "D:\\Work\\SGS\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
       "projectName": "EmployeeLeaveManagement",
-      "projectPath": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
-      "packagesPath": "C:\\Users\\sgsuser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\",
+      "projectPath": "D:\\Work\\SGS\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\EmployeeLeaveManagement.csproj",
+      "packagesPath": "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\",
+      "outputPath": "D:\\Work\\SGS\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sgsuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mohamad Umar M\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

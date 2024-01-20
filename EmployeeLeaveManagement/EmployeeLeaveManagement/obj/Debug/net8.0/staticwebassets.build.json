@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UPTV7/i7Mb4kJgOPBPm4EhNddB7A/qhk28Lw0S7CQ1w=",
+  "Hash": "Ivyz24LQMKMTf/O52E6JGqciDOo10nrx00Bv3JU/mEs=",
   "Source": "EmployeeLeaveManagement",
   "BasePath": "_content/EmployeeLeaveManagement",
   "Mode": "Default",
@@ -9,10 +9,10 @@
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\sgsuser\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sgsuser\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -25,13 +25,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sgsuser\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\sgsuser\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\sgsuser\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -44,13 +44,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sgsuser\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\Mohamad Umar M\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeLeaveManagement.styles.css",
+      "Identity": "D:\\Work\\SGS\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeLeaveManagement.styles.css",
       "SourceId": "EmployeeLeaveManagement",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Work\\SGS\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EmployeeLeaveManagement",
       "RelativePath": "EmployeeLeaveManagement.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\sgsuser\\Documents\\GitHub\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeLeaveManagement.styles.css"
+      "OriginalItemSpec": "D:\\Work\\SGS\\ELMS-SGS\\EmployeeLeaveManagement\\EmployeeLeaveManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmployeeLeaveManagement.styles.css"
     }
   ]
 }
